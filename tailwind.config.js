@@ -11,8 +11,8 @@ module.exports = {
         brand: {
           yellow: '#F5B700',
           orange: '#E07B00',
-          dark:   '#0F0F0F',
-          cream:  '#FFF6E0',
+          dark:   '#802315',
+          cream:  '#fff3c2',
           gold:   '#C48B00',
         },
       },

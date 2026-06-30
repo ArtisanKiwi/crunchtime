@@ -39,7 +39,7 @@ export default function Events() {
   const isInView = useInView(ref, { once: true, margin: '-80px' })
 
   return (
-    <section id="events" className="bg-[#0A0A0A] py-24 lg:py-32" ref={ref}>
+    <section id="events" className="bg-brand-dark py-24 lg:py-32" ref={ref}>
       <div className="max-w-[1024px] mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Heading */}
